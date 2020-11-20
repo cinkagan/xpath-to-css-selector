@@ -1,5 +1,5 @@
-# xPath To Css Selector
-
+# xPath To Css Selector Chrome Extension
+ 
 ![Alt Text](https://media.giphy.com/media/B9jvEus2ADS8sAoQbC/giphy.gif)
 
 
